@@ -11,4 +11,4 @@ async def test(ctx):
  await ctx.send("heya")
 
 
-bot.run("MTExOTI0Njg5NDUyNzQzMDcyNw.GGIosW.UcqTzFFccoyBXoDF27b5lAvR7B7Y8X0YvngGcY")
+bot.run("why do u want they key?")
